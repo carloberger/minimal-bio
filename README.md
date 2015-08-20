@@ -22,4 +22,4 @@ While the original owner is providing no support for this codebase, I am happy t
 
 > License - Can be used how you like, edit it how you like. Any link back to theultralinx.com will be hugely appreciated.
 
-As far as this is accurate, I am re-releasing this code under [the ISC license](https://tldrlegal.com/license/-isc-license). I've [contacted the original author](https://twitter.com/therebelrobot/status/634501690717245441) about this change, and [will update this as I get more info]().
+As far as this is accurate, I am re-releasing this code under [the ISC license](https://tldrlegal.com/license/-isc-license). I've [contacted the original author](https://twitter.com/therebelrobot/status/634501690717245441) about this change, and [will update this as I get more info](https://github.com/therebelrobot/minimal-bio/issues/1).
