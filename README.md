@@ -5,4 +5,4 @@ A reponsive minimalalist bio HTML theme - Mirror repo for [MnmlBio](http://theul
 
 *from `Instructions & License`:*
 
-License - Can be used how you like, edit it how you like. Any link back to theultralinx.com will be hugely appreciated.
+> License - Can be used how you like, edit it how you like. Any link back to theultralinx.com will be hugely appreciated.
