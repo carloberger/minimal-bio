@@ -1,7 +1,7 @@
 # Minimal Bio
-A reponsive minimalalist bio HTML theme - Based off of [MnmlBio](http://theultralinx.com/2012/09/minimal-bio-responsive-site-template-free-download/) by [Oliur](https://twitter.com/UltraLinx) at [UltraLinx Themes](http://themes.theultralinx.com/)
+A reponsive minimalalist bio HTML theme
 
-*Note: Olier has [said that he wants nothing to do with the codebase any longer](https://twitter.com/UltraLinx/status/634503960775233540), So please direct any support requests to this repo's [Github Issues](https://github.com/therebelrobot/minimal-bio/issues)*
+*Note:  Based off of [MnmlBio](http://theultralinx.com/2012/09/minimal-bio-responsive-site-template-free-download/) by [Oliur](https://twitter.com/UltraLinx) at [UltraLinx Themes](http://themes.theultralinx.com/). Olier has [said that he wants nothing to do with the codebase any longer](https://twitter.com/UltraLinx/status/634503960775233540), So please direct any support requests to this repo's [Github Issues](https://github.com/therebelrobot/minimal-bio/issues)*
 
 ![](http://a5.files.theultralinx.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTI5MDIzMzMyMjc1MjAyNjkx.jpg)
 ![](http://a3.files.theultralinx.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTI5MDIzMzMzMDgwNTA5MDU5.jpg)
