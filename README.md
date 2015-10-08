@@ -15,3 +15,7 @@ A reponsive minimalalist bio HTML theme
 ## License
 
 [ISC](https://tldrlegal.com/license/-isc-license)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/therebelrobot/minimal-bio/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
